@@ -3,7 +3,7 @@ tags: cssi, html, css, git command line
 level: 1
 languages: html, css, git
 ---
-#Group Anchor Chart
+# Group Anchor Chart
 Directions:  Work in groups of five  to make an HTML or CSS Anchor Chart including syntax and tags for key elements Anchor charts should have a title, vocabulary terms and and brief definitions.
 
 # HTML:
