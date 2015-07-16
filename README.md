@@ -4,20 +4,25 @@ level: 1
 languages: html, css, git
 ---
 # Group Anchor Chart
-Directions:  Work in groups of five  to make an HTML or CSS Anchor Chart including syntax and tags for key elements Anchor charts should have a title, vocabulary terms and and brief definitions.
+Directions:  Work in groups of five  to make an Anchor Chart for one of the 4 topics below. Anchor charts should have a title, vocabulary terms, brief definitions and syntax where applicable.
 
-# HTML:
-+ Structure an html page using doctype, html, head and body tags and nesting
+
+# HTML 
++ What is HTML, why is it important
++ Sample structure of an html page using doctype, html, head and body tags and nesting
 + h1-h6, img, a, ul, ol, li, p, div
 
-# CSS:
+# CSS
++ What is CSS, why is it important?
 + selection: type, class and ID
 + syntax: Property and value
 + Common properties
-+ (hexadecimal, rgba, and rgb color values)
++ Colors(hexadecimal, rgba, and rgb color values)
 
-# Command Line Basics
+# Command Line Basics: 
++ Why is the CL important? How do you access it?
 + ls, pwd, cd, touch, mkdir, rm, mv
 
-# Git:
+# Git: 
++ What is Git, why do we need it?
 + init, add, commit, remotes, push
