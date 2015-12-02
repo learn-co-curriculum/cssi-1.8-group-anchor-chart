@@ -26,3 +26,5 @@ Directions:  Work in groups of five  to make an Anchor Chart for one of the 4 to
 # Git: 
 + What is Git, why do we need it?
 + init, add, commit, remotes, push
+
+<a href='https://learn.co/lessons/cssi-1.8-group-anchor-chart' data-visibility='hidden'>View this lesson on Learn.co</a>
